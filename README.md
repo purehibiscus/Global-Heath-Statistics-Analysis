@@ -1,4 +1,4 @@
-# Global-Heath-Statistics-dashboard
+# Global-Heath-Statistics-Analysis in SQL Server and Power BI
 This repo contains all my files on Global Health Statistics analysis including SQL analysis file, Power BI dashboard, project documentation,
 
 Project Report on Global Health Statistics
